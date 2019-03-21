@@ -18,3 +18,7 @@ links:
 
 * https://deeplearning4j.org/docs/latest/deeplearning4j-nn-transfer-learning
 * https://deeplearning4j.org/docs/latest/deeplearning4j-beginners
+
+general:
+
+* https://www.youtube.com/watch?v=qeHZOdmJvFU
